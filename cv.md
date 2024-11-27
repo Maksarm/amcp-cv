@@ -22,7 +22,7 @@
 - [LinkedIn](www.linkedin.com/in/maksim-armianinov-a40942275)
 - [GitHub](https://github.com/Maksarm)
 
-##Образование
+## Образование
 - МАОУ "**IT-школа**" г.Перми (2013-2024)
 - **СПбГУ**, факультет: ПМ-ПУ, специальность: "Программирование и информационные технологии" (2024 - н.в.)
 
@@ -38,3 +38,9 @@
 
 ## Профиль на Codewars
 [Maksarm](https://www.codewars.com/users/Maksarm)
+
+## Проекты
+### 1. CV на Markdown
+- Описание: Это резюме написано в формате Markdown.
+- Навыки: Markdown, Git
+- Ссылка на код: [GitHub](https://github.com/Maksarm/amcp-cv)
